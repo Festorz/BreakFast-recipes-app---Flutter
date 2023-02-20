@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "231815555779",
+    "project_id": "breakfast-meals-recipes",
+    "storage_bucket": "breakfast-meals-recipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231815555779:android:dc4d463398ec7f62c69076",
+        "android_client_info": {
+          "package_name": "com.coolrecipes.breakfast.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231815555779-jpuuo9rcqhsf3il1q4odaf03i35fv0f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coolrecipes.breakfast.recipes",
+            "certificate_hash": "9a70c7bd451204c103231345a0f5639be9938b4b"
+          }
+        },
+        {
+          "client_id": "231815555779-ndpch7lao9hnjq4t6r0c91q0d1ajp786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciTQgLKo9o8zt3n8UxJIzEhV96tuDcZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231815555779-ndpch7lao9hnjq4t6r0c91q0d1ajp786.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231815555779-duqu08i74nlc910gg1h1fsi1caburcs1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coolrecipes.breakfast.recipes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
